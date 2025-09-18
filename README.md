@@ -11,15 +11,12 @@ It allows you to calculate letter grade by number-based midterm 1, midterm 2 and
 1. Clone this repository:
    ```bash
    git clone https://github.com/roksandeveci/grade-calculation
-Navigate into the project folder:
-
-```bash
-Kodu kopyala
-cd grade-calculation
-Run the program:
-
-```bash
-python app.py
+2.Navigate into the project folder:
+   ```bash
+   cd grade-calculation
+3.Run the program:
+   ```bash
+   python app.py
 ## Usage
 Enter your midterm 1, midterm 2, final grades.
 %30 of midterm 1, %30 of midterm 2, %40 of final grades
