@@ -1,21 +1,19 @@
 # grade-calculation
 Converts your number-based midterm 1, midterm 2 and final grades to letter grades.
-# 🧮 Simple Calculator
+#  Simple Calculator
 
 This program written in **Python**.  
 It allows you to calculate letter grade by number-based midterm 1, midterm 2 and final grades .
 
 
 
-## 🚀 How to Run
+##  How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/roksandeveci/grade-calculation
 2.Navigate into the project folder:
-   ```bash
    cd grade-calculation
 3.Run the program:
-   ```bash
    python app.py
 ## Usage
 Enter your midterm 1, midterm 2, final grades.
